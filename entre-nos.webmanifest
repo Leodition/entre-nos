@@ -1,0 +1,15 @@
+{
+  "id": "/entre-nos.html",
+  "name": "Entre Nós",
+  "short_name": "Entre Nós",
+  "lang": "pt-BR",
+  "start_url": "/entre-nos.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5eee6",
+  "theme_color": "#843d35",
+  "icons": [
+    { "src": "/entre-nos-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/entre-nos-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
